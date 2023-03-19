@@ -8,15 +8,6 @@ This is a simple task app website that allows you to create and manage tasks. Yo
 
 Check out the live demo [here](https://bassiouny2.github.io/task-app/).
 
-## Installation
-
-To run the app locally, you will need to have Node.js and npm installed on your system. Then, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Run `npm install` to install the required dependencies.
-4. Run `npm start` to start the app.
-
 ## Usage
 
 To use the app, follow these steps:
